@@ -1,0 +1,26 @@
+[
+  {
+    "nombreUsuario": "pruebaUser",
+    "contraseña": "$2a$10$r2pSP/AsF/rL2Fo5byD.i.euTZSxJ6J62YK3vJd63QaXrOcQn2Api"
+  },
+  {
+    "nombreUsuario": "paola",
+    "contraseña": "$2a$10$.H/HnfADkpzsODQpe5U.7uQderMXwgYzT8x0yPcq/KCodb50xAg7y"
+  },
+  {
+    "nombreUsuario": "urdiales",
+    "contraseña": "$2a$10$FLxHUmaxGPuXWTfor5lON.wnot8OQBI0mUIu5Xbpss1fsDXxCc5Ea"
+  },
+  {
+    "nombreUsuario": "gato",
+    "contraseña": "$2a$10$ZDMVG6yu7gedyGENxwVlCuDrlAqoUv3gOZaWbCzERhqy5Yo0WoJUq"
+  },
+  {
+    "nombreUsuario": "lola",
+    "contraseña": "$2a$10$4UOsnfSi7SdbjxC1zJRwre0Oz9JjEwEhqc7I7eDDIVTXxQoyPpzYq"
+  },
+  {
+    "nombreUsuario": "lala",
+    "contraseña": "$2a$10$rUMTUucdt7zlAuJPuXvBK.rfFbV0tp39TY9gXPNH3.3fDLXt.4fHi"
+  }
+]
